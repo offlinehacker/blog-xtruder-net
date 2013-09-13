@@ -26,7 +26,7 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (
     ('', 'http://www.github.com/offlinehacker'),
     ('', 'http://www.facebook.com/offlinehacker'),
-    ('', 'http://www.twitter.com/offlinehacker'),
+    ('', 'http://www.twitter.com/offlinehacker')
 )
 
 DEFAULT_PAGINATION = 10
