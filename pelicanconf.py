@@ -48,4 +48,4 @@ DEFAULT_PAGINATION = 10
 #    }
 #}
 
-THEME = "simple"
+#THEME = "simple"
