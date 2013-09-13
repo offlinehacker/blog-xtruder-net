@@ -102,7 +102,7 @@ th {
 }
 
 img {
-  max-width:100%;
+  max-width:70%;
 }
 
 header {
@@ -192,10 +192,9 @@ hr {
 }
 
 footer {
-  width:270px;
   float:left;
   position:fixed;
-  bottom:10px;
+  bottom:5px;
 }
 
 @media print, screen and (max-width: 960px) {
