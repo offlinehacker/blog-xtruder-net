@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Jaka Hudoklin'
 AUTHOR_EMAIL = u'jakahudoklin@gmail.com'
-SITENAME = u'This blog is online, by offline'
+SITENAME = u'Jaka Hudoklin'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Ljubljana'
@@ -23,29 +23,34 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('', 'http://www.github.com/offlinehacker'),
+    ('', 'http://www.facebook.com/offlinehacker'),
+    ('', 'http://www.twitter.com/offlinehacker'),
+)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
-#PLUGIN_PATH = 'pelican-plugins'
-#PLUGINS = ['sitemap', 'gravatar']
-#
-#SITEMAP = {
-#    'format': 'xml',
-#    'priorities': {
-#        'articles': 0.5,
-#        'indexes': 0.5,
-#        'pages': 0.5
-#    },
-#    'changefreqs': {
-#        'articles': 'monthly',
-#        'indexes': 'daily',
-#        'pages': 'monthly'
-#    }
-#}
+PLUGIN_PATH = 'plugins'
+PLUGINS = ['sitemap']
 
-#THEME = "simple"
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
+THEME = "theme/"
+GRV_URL = "https://sl.gravatar.com/avatar/07de32bbf131a9bd6f9678105b05f84a?s=300"
+WHAT_DO_I_THINK = "I am about to start some great projects and need some young enthusiastic people willing to share that enthusiasm, I need a team"
