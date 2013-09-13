@@ -5,7 +5,9 @@ Hellyeah, reboot
 :tags: blog, hell, yeah, new
 :category: We are all aliens
 :slug: Hellyeah
-:summary: My first commit
+:summary: I'm back alive, or how would i say, i migrated to pelican, i also
+          abused heroku. I'm still not happy, but at least i will be getting
+          somewhere.
 
 
 **I'm back alive, or how would i say, i migrated to pelican, i also abused
