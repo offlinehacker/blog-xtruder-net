@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Jaka Hudoklin'
 AUTHOR_EMAIL = u'jakahudoklin@gmail.com'
 SITENAME = u'Jaka Hudoklin'
-SITEURL = ''
+SITEURL = 'http://www.jakahudoklin.com/'
 
 TIMEZONE = 'Europe/Ljubljana'
 
