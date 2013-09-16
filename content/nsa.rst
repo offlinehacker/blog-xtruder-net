@@ -7,9 +7,9 @@ NSA Prism service now public
 :slug: nsa_prism_service_now_public
 :summary: NSA proudly presents ...
 
-Hello we are NSA and we proudly present our cloud based SAAS(Spying as a service) solution, prism. Prism can be easily integrated with all your cloud or non cloud services by simply buying nsa certified software or hardware from all major companies. NSA Prism is compatible with windows, linux, mac, vmware, you name it, operating systems and runs fine on all major arhitectures. It requires no installation and it comes preinstalled, so you don't have to. It's that easy! Google, facebook and microsoft are just one of the examples of our top customers all being very happy with a service.
+Hello we are NSA and we proudly present our cloud based SAAS(Spying as a service) solution, Prism. Prism can be easily integrated with all your cloud or non cloud services by simply buying nsa certified software or hardware from all major companies. NSA Prism is compatible with windows, linux, mac, vmware, you name it, operating systems and runs fine on all major arhitectures. It requires no installation and it comes preinstalled, so you don't have to. It's that easy! Google, facebook and microsoft are just one of the examples of our top customers, all being very happy with a service.
 
-The benefits of beeing in NSA prism customer are:
+The benefits of beeing a NSA prism customer are:
 
 - It is free
 - it auto shares your data to any custom trusted third parties, so you don't have to
