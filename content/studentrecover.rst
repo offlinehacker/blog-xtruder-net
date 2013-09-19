@@ -11,8 +11,10 @@ S pomočjo nizko cenovne delovne sile do poljubnega gesla študenta
 
 Opozorilo:
 
-    V tem članku ni bil zlorabljen noben uporabniški račun, vsi testi so bili
-    opravljeni na naših lastnih uporabniških računih.
+    **V tem članku ni bil zlorabljen noben uporabniški račun, vsi testi so bili
+    opravljeni na naših lastnih uporabniških računih. Tudi bralce tega članka
+    pozivamo, da je resetiranje gesla drugega študenta nedovoljeno in ne-etično,
+    in če boste to počeli vam želim čim več težav!**
 
 Uvod
 ----
