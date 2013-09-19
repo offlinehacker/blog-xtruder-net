@@ -54,7 +54,7 @@ uporabniško ime ugotovljeno. Tako preprosto!
 **Kot vidimo smo imeli srečo in že po približno 1500 uspešnih poizkusih smo uspešno
 pridobili uporabniško ime, še edini manjkajoči podatek, ki je potreben za ponastavitev gesla.**
 
-.. image:: |filename|/images/avantgate_panel.png
+.. image:: |filename|/images/antigate_panel.png
 
 **Storitev, ki smo jo uporabili za razbijanje CAPTCHA omogoča interaktivni pregled
 in tako lažji razvoj aplikacije**
