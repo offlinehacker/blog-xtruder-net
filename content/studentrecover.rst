@@ -21,7 +21,7 @@ Luka Pušić je napisal `članek o ranljivosti e-identitete univerze v Ljubljani
 <http://pusic.si/post/pomankljiva-zascita-e-identitete-univerze-v-ljubljani/>`_
 in tudi demonstriral, kako lahko
 kateremukoli študentu brez večjih težav ponastaviti geslo, ki se uporablja na več
-spletnih portalih za študente, ki so kritičnega pomena za njegov študij.
+spletnih portalih za študente, ki so kritičnega pomena za njihov študij.
 Za uspešno uporabo njegove metode si potreboval ime študenta, priimek,
 rojstni datum, vpisno številko in ime fakultete - podatke, ki si jih zlahka pridobil.
 Edina ovira je bilo uporabniško ime, ki ga je bilo treba ugotoviti z avtomatiziranim
