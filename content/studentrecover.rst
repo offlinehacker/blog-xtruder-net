@@ -68,3 +68,7 @@ Ugotovitev
 
 Kot lahko vidimo, zaščita s CAPTCHA ni vedno primerna. Kot boljšo alternativo
 predlagamo resetiranje gesla preko elektronske pošte.
+
+Uporabnik se žal pred tem napadom težko zaščititi. Tudi, če skriva svoj rojstni
+datum ter vpisno številko, to ne pomaga. Izkaže se, da se da te podatke na
+preprost način pridobiti.
