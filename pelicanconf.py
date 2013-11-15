@@ -53,5 +53,5 @@ SITEMAP = {
 
 THEME = "theme/"
 GRV_URL = "https://sl.gravatar.com/avatar/07de32bbf131a9bd6f9678105b05f84a?s=300"
-WHAT_DO_I_THINK = "I am about to start some great projects and need some young enthusiastic people willing to share that enthusiasm, I need a team"
+WHAT_DO_I_THINK = "Do you event exist if you don't share things with those you care?<br/><br/>Keep sharing, keep carring!"
 GOOGLE_ANALYTICS = "UA-44181448-1"
