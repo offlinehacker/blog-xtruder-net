@@ -1,7 +1,7 @@
 Goodbye pyramid, hello loopback!
 ################################
 
-:date: 2014-07-24 15:43
+:date: 2014-09-22 01:08
 :tags: pyramid, loopback, strongloop, rest, api
 :category: dev
 :slug: pyramid_2_loopback
