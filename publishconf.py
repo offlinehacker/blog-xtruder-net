@@ -56,3 +56,4 @@ GRV_URL = "https://sl.gravatar.com/avatar/07de32bbf131a9bd6f9678105b05f84a?s=300
 WHAT_DO_I_THINK = "Just working on some awesome projects...<br></br>Want to know more? ping me!"
 GOOGLE_ANALYTICS = "UA-44181448-1"
 DISQUS_SITENAME = "blogxtrudernet"
+TWITTER_USERNAME = "offlinehacker"
